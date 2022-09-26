@@ -1,4 +1,5 @@
-﻿namespace Observer
+﻿using System;
+namespace Observer
 {
     class Program
     {
